@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra contato me segue e fale comigo nas redes abaixo!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,6 +22,6 @@
   <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![snake gif](https://github.com/seu_usuario_github/seu_usuario_github/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/DarkCode111/DarkCode111/blob/output/github-contribution-grid-snake.svg)
 
 </div>
